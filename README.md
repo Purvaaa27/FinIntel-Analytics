@@ -116,7 +116,7 @@ The model uses the following input features:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/FinIntel-Analytics.git
+git clone https://github.com/Purvaaa27/FinIntel-Analytics.git
 cd FinIntel-Analytics
 ```
 
